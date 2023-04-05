@@ -1,0 +1,33 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T19:00:40Z",
+  "IdClaims": [
+    {
+      "Claim": "t:ericthut"
+    },
+    {
+      "Claim": "spout:ericthut"
+    },
+    {
+      "Claim": "mdon:@ericthut@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "6482b1b1409340fb2fcb66c0",
+    "Timestamp": "2023-04-05T19:09:20Z",
+    "Signature": "54264ef8f8a3fe507af34dabd521b4283358074e114e5cf557115ca4c08f0f22bc0bae546d0850c2889a60e4c9f5d87f0f971cd7b0207f9c9609d2ffd254c341ee3c4e89e4dfef96874ff0eda229719e4cdc4f0895174abf509f355e523c7d29c2a3adcb024f06a331d9c1424ab4672ce0005f569ef42b35cc96b27eabaa52ff43848cd817c4f3fb696c20e2f3295130247c18c68a2d93098ea08f500234ed01104bbe45ba120e45562947cd8404240f6d3a36f95d4a38b49fcc9ab31e7dc516464e1508ff88d984ac2a72197a476c1dccc0742693d6bb6c5d2a1f08846816c4825d414f9b4cc2dbb48a3f7d33bda121b7f81f45a76e0892dc8a362778256968"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "3b85a1f28c9c62177cfa699ce431be853853dfebcefef283a6364372e1a8894c",
+  "ContentToHash": "v1|mdon:@ericthut@mastodon.social,pat:no-account,spout:ericthut,ss:no-account,t:ericthut|2023-04-05T19:00:40Z"
+}
